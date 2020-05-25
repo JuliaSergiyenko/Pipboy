@@ -1,2 +1,3 @@
 # Pipboy
 website
+<!DOCTYPE html>
